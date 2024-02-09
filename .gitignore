@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# File containing Passwords
+/mqtt_temperature_sensor/secrets.h
